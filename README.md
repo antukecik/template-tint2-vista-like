@@ -8,6 +8,6 @@ how to use
 
 place 1.png and 2.png into your home folder inside a folder called ".theme"
 
-Credit
+Credit</p>
 https://www.deviantart.com/thewindowsvista/art/Windows-Vista-Theme-For-Tint2-920162336</p>
 https://www.pling.com/p/1835281/</p>
