@@ -2,7 +2,7 @@
 
 A Tint2 theme made to look like Windows Vista's Taskbar under the "Aero" Theme
 
-<img src="https://i.imgur.com/B4LX0kY.png](https://images.pling.com/img/00/00/57/79/36/1835281/tint2theme1.png">
+<img src="https://images.pling.com/img/00/00/57/79/36/1835281/tint2theme1.png">
 
 how to use
 
